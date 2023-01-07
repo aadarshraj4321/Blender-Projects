@@ -4,3 +4,7 @@
 
 ### Low Poly Car Model
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyCarModel.png)
+
+
+### Basic Sci-Fi Low Poly Car Model
+![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/sciFiCarModel.png)
