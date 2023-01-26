@@ -13,7 +13,7 @@
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/glassWithStrawWaterAndCube.png)
 
 ### TableWithGlassFullDrink
-![alt text]([https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/glassWithStrawWaterAndCube.png](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/tableWithDrinks.png))
+![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/tableWithDrinks.png)
 
 ### Rubix Cube Glass 
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/rubixCubeGlassModel.png)
