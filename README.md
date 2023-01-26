@@ -9,6 +9,9 @@
 ### Basic Sci-Fi Low Poly Car Model
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/sciFiCarModel.png)
 
+### GlassWithIceWaterWithStraw
+![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/glassWithStrawWaterAndCube.png)
+
 ### Rubix Cube Glass 
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/rubixCubeGlassModel.png)
 
