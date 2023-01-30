@@ -15,6 +15,9 @@
 ### TableWithGlassFullDrink
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/tableWithDrinks.png)
 
+### WhiteDucky
+![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/duckyModel.png)
+
 ### LowPoly MineCraft Village
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyMineCraftVillage2.png)
 
