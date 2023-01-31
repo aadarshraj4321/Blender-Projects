@@ -21,6 +21,9 @@
 ### LowPoly MineCraft Village
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyMineCraftVillage2.png)
 
+### LowPoly Rock
+![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyRock.png)
+
 ### Rubix Cube Glass 
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/rubixCubeGlassModel.png)
 
