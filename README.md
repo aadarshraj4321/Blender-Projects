@@ -24,6 +24,9 @@
 ### LowPoly Rock
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyRock.png)
 
+### LowPoly DeadPineTree
+![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/deadPineTree.png)
+
 ### Rubix Cube Glass 
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/rubixCubeGlassModel.png)
 
