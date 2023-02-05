@@ -30,6 +30,10 @@
 ### LowPoly Terrain
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyTerrain.png)
 
+### LowPoly Terrain With River
+![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyTerrainWithWater2.png)
+![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyTerrainWithWater.png)
+
 ### Rubix Cube Glass 
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/rubixCubeGlassModel.png)
 
