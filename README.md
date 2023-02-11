@@ -38,7 +38,7 @@
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/rubixCubeGlassModel.png)
 
 ### Pine Tree Animation
-![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/blender_animation_model/model_animations/lowPolyBasicRocketAnimation.mp4)
+https://github.com/aadarshraj4321/Blender-Projects/blob/main/blender_animation_model/model_animations/lowPolyBasicRocketAnimation.mp4
 
 ### Basic New-Channel Low Poly Car Model
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/newChannelLowPolyCar3.png)
