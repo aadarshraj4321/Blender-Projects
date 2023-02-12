@@ -21,6 +21,9 @@
 ### LowPoly MineCraft Village
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyMineCraftVillage2.png)
 
+### Error Computer Machine
+![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/errorComputerMachine.png)
+
 ### 90s Computer
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/oldMachineFinal.png)
 
