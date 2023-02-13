@@ -24,10 +24,7 @@
 ### 90's Computer Machine
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/oldMachineCycle2.png)
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/oldMachineCycle.png)
-![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/oldMachineFinal.png)
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/errorComputerMachine.png)
-
-### 90s Computer
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/oldMachineFinal.png)
 
 ### LowPoly Rock
