@@ -27,6 +27,9 @@
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/errorComputerMachine.png)
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/oldMachineFinal.png)
 
+### LowPoly TerrainWithRoadAndWater
+![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyTerrainWithRoadAndWater.png)
+
 ### LowPoly Rock
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyRock.png)
 
