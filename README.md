@@ -33,7 +33,7 @@
 ### LowPoly TerrainWithRoadAndWater
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyTerrainWithRoadAndWater.png)
 
-### LowPoly Rock
+### LowPoly Rocks
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/lowPolyRock.png)
 
 ### LowPoly DeadPineTree
