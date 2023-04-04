@@ -49,7 +49,7 @@
 ### Rubix Cube Glass 
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/rubixCubeGlassModel.png)
 
-### SmartPhone VIVO 
+### SmartPhone VIVO Design 
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/vivoPhoneFront.png)
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/vivoPhoneBack.png)
 
