@@ -53,7 +53,7 @@
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/vivoPhoneFront.png)
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/vivoPhoneBack.png)
 
-### Pine Tree Animation
+### Pine-Tree Animation
 https://user-images.githubusercontent.com/68873194/218272960-33237cc3-7810-4fac-8f59-1875bff8f5db.mp4
 
 ### Basic New-Channel Low Poly Car Model
