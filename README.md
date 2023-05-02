@@ -15,7 +15,7 @@
 ### TableWithGlassFullDrink
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/tableWithDrinks.png)
 
-### WhiteDucky
+### White-Ducky
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/duckyModel.png)
 
 ### LowPoly MineCraft Village
@@ -66,7 +66,7 @@ https://user-images.githubusercontent.com/68873194/218272960-33237cc3-7810-4fac-
 ### Ice-Glass With Water
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/IceGlassWithWater.png)
 
-### Basic Buildings Models
+### Basic-Buildings Models
 ![alt text](https://github.com/aadarshraj4321/Blender-Projects/blob/main/all_models_render_image/buildings.png)
 
 
